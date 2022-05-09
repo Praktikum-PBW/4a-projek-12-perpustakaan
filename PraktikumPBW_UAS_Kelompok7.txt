@@ -1,0 +1,39 @@
+# Nama Projek : UNSIKA E-Library
+
+# Deskripsi Projek : UNSIKA E-Library adalah sebuah program web yang dibuat atau ditujukan untuk membantu petugas perpustakaan di Universitas Singaperbangsa Karawang dalam mendata setiap mahasiswa yang melakukan peminjaman dan pengembalian sebuah buku di perpustakaan secara komputerisasi dan setiap data akan dapat dengan mudah disimpan dan dicari dalam UNSIKA E-Library.
+
+# Cara Membuka Dan Menginstall
+
+Syarat Penggunaan
+- Versi PHP 7 atau diatasnya
+- Xampp [ Atau software web server lainnya ]
+
+Cara Installasi
+- Download Project ini atau fork terlebih dahulu kemudian clone pada kamputer kalian.
+- Run/Start Apache dan Mysql pada Xampp atau software web server lainnya.
+- Lalu Buka browser favorit kalian
+- kemudian ketikan "localhost/phpmyadmin"
+- Buat database baru dengan nama "perpustakaan"
+- Import "perpustakaan.sql" ke database yang sudah dibuat sebelumnya.
+- Kemudian pindahkan folder/project Perpustakaan ini kedalam file :C/xampp/htdocs
+- Tambahkan tab baru pada browser dan ketikan "localhost/perpustakaan/"
+- Kemudian login dan jalankan web tersebut.
+
+Default Account for testing
+- Nama = Admin
+- Username = Admin
+- Password = Admin
+
+atau anda bisa melakukan registrasi dan membuat akun admin dengan ketentuan ID yaitu tahun regis,bulan lahir,tanggal lahir Contoh 20220312.
+
+# Tools dan Software = Visual Studio Code, Xampp, Google Chrome
+
+# Bahasa Pemrograman, Library = Java Script,CSS,PHP
+
+# Anggota Kelompok
+- Alfian Vito Anggoro ( 2010631170044 )
+- Adrian Ramadhani Pri Haryoga (2010631170135)
+- Afiva Yuazijah (2010631170136)   
+
+    
+
